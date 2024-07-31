@@ -12,4 +12,10 @@ Public servers/Instances.
 
 In Vpc, The Developer is abled to configure the setting in this way the instances easily ping the instances of each other using PEERING CONNECTION AND TRANSIST GATEWAY.
 
-https://github.com/atharva-sangale/VPC_Private-Ip-Connection/issues/1#issue-2440803756
+![Screenshot 2024-07-26 172721](https://github.com/user-attachments/assets/7c138caa-bd8b-41c1-968a-c4e2a112e6d8)
+
+![Screenshot 2024-07-26 172939](https://github.com/user-attachments/assets/450a543c-45c6-4b23-b7e7-fd6c627dda93)
+
+
+
+
