@@ -12,6 +12,8 @@ Public servers/Instances.
 
 In Vpc, The Developer is abled to configure the setting in this way the instances easily ping the instances of each other using PEERING CONNECTION AND TRANSIST GATEWAY.
 
+in following images we are try to ping the instances using peering connecton
+
 ![Screenshot 2024-07-26 172721](https://github.com/user-attachments/assets/7c138caa-bd8b-41c1-968a-c4e2a112e6d8)
 
 ![Screenshot 2024-07-26 172939](https://github.com/user-attachments/assets/450a543c-45c6-4b23-b7e7-fd6c627dda93)
